@@ -7,7 +7,6 @@
 - Define property methods to manage attributes.
 
 ---
-
 ## Instructions
 
 This is a **test-driven lab**. Run `pipenv install` to create your virtual
